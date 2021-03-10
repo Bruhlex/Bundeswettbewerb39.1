@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Solve
+comment1.params=s
+comment1.target=java.lang.String\ ausgabeFormatieren(int)
+comment2.params=loesung
+comment2.target=void\ ausgabe(int[][])
+comment3.params=array\ index
+comment3.target=int[][]\ arrayKopieren(int[][],\ int)
+comment4.params=puzzleTeil\ y
+comment4.target=boolean\ istPassend(int[],\ int)
+comment5.params=puzzle
+comment5.target=boolean\ puzzleLoesenStart(int[][])
+comment6.params=puzzle\ position
+comment6.target=boolean\ puzzleLoesen(int[][],\ int)
+numComments=7
